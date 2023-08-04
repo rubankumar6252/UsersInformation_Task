@@ -1,0 +1,33 @@
+.users {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-table tr th {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.user-table tr td {
+    border: 1px solid black;
+}
+
+.pagination {
+    padding-top: 20px;
+}
+
+.pagination button {
+    margin-left: 10px;
+    padding: 3px 15px 3px 15px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.pagination button:disabled {
+    background-color: #ccc;
+    color: black;
+    cursor: not-allowed;
+}
