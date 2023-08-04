@@ -33,7 +33,7 @@ UsersInformation_Task/
 |-- README.md
 
 ### Introduction
-The UsersInformation React component fetches user information from the https://reqres.in/api/users?page=1.in API and displays it in a tabular format. It also includes pagination controls to navigate through the data.
+The UsersInformation React component fetches user information from the https://reqres.in/api/users?page=1. in API and displays it in a tabular format. It also includes pagination controls to navigate through the data.
 
 Features:
 
