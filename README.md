@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Installation
-1. Clone the repository:
+1.Clone the repository:
    https://github.com/rubankumar6252/UsersInformation_Task.git
    
 2.Install the dependencies:
